@@ -1,0 +1,148 @@
+month,department,Avg_Headcount,Separations,Attrition_Rate_Pct
+2026-04,Administration,17,0,0.0
+2026-04,Compliance,12,0,0.0
+2026-04,cutting,80,1,1.25
+2026-04,Dyeing,107,0,0.0
+2026-04,FINANCE,20,0,0.0
+2026-04,Finishing,69,0,0.0
+2026-04,human resources,16,1,6.25
+2026-04,IT,14,0,0.0
+2026-04,Maintenance,102,1,0.98
+2026-04,Packing,62,2,3.23
+2026-04,Processing,31,0,0.0
+2026-04,Procurement,11,0,0.0
+2026-04,Production Planning,25,0,0.0
+2026-04,QUALITY CONTROL,101,0,0.0
+2026-04,Sales & Marketing,24,0,0.0
+2026-04,Spinning,119,0,0.0
+2026-04,Stitching,151,1,0.66
+2026-04,SUPPLY CHAIN,7,0,0.0
+2026-04,UTILITIES,34,0,0.0
+2026-04,warehouse,79,0,0.0
+2026-04,Weaving,132,2,1.52
+2026-05,Administration,17,0,0.0
+2026-05,Compliance,13,1,7.69
+2026-05,cutting,80,0,0.0
+2026-05,Dyeing,109,3,2.75
+2026-05,FINANCE,20,0,0.0
+2026-05,Finishing,69,1,1.45
+2026-05,human resources,16,0,0.0
+2026-05,IT,14,0,0.0
+2026-05,Maintenance,104,0,0.0
+2026-05,Packing,62,1,1.61
+2026-05,Processing,31,0,0.0
+2026-05,Procurement,11,0,0.0
+2026-05,Production Planning,25,0,0.0
+2026-05,QUALITY CONTROL,103,0,0.0
+2026-05,SALES & MARKETING,25,0,0.0
+2026-05,Spinning,119,2,1.68
+2026-05,Stitching,154,1,0.65
+2026-05,SUPPLY CHAIN,7,0,0.0
+2026-05,UTILITIES,34,1,2.94
+2026-05,warehouse,80,2,2.5
+2026-05,Weaving,133,1,0.75
+2026-06,Administration,17,0,0.0
+2026-06,Compliance,13,0,0.0
+2026-06,cutting,80,0,0.0
+2026-06,Dyeing,112,0,0.0
+2026-06,FINANCE,20,1,5.0
+2026-06,Finishing,70,0,0.0
+2026-06,human resources,16,0,0.0
+2026-06,IT,15,0,0.0
+2026-06,Maintenance,105,0,0.0
+2026-06,Packing,62,1,1.61
+2026-06,Processing,31,0,0.0
+2026-06,Procurement,11,0,0.0
+2026-06,Production Planning,25,0,0.0
+2026-06,QUALITY CONTROL,104,0,0.0
+2026-06,SALES & MARKETING,25,0,0.0
+2026-06,Spinning,119,0,0.0
+2026-06,Stitching,154,0,0.0
+2026-06,Supply Chain,9,0,0.0
+2026-06,UTILITIES,34,1,2.94
+2026-06,warehouse,80,1,1.25
+2026-06,Weaving,134,4,2.99
+2026-07,Administration,17,0,0.0
+2026-07,Compliance,13,0,0.0
+2026-07,cutting,81,1,1.23
+2026-07,Dyeing,112,2,1.79
+2026-07,FINANCE,20,0,0.0
+2026-07,Finishing,70,0,0.0
+2026-07,human resources,16,0,0.0
+2026-07,IT,15,2,13.33
+2026-07,Maintenance,107,3,2.8
+2026-07,Packing,62,1,1.61
+2026-07,Processing,32,2,6.25
+2026-07,Procurement,11,0,0.0
+2026-07,Production Planning,25,0,0.0
+2026-07,QUALITY CONTROL,106,4,3.77
+2026-07,SALES & MARKETING,25,0,0.0
+2026-07,Spinning,119,1,0.84
+2026-07,Stitching,155,0,0.0
+2026-07,Supply Chain,9,1,11.11
+2026-07,UTILITIES,34,1,2.94
+2026-07,warehouse,82,3,3.66
+2026-07,Weaving,136,0,0.0
+2026-08,Administration,18,0,0.0
+2026-08,Compliance,13,0,0.0
+2026-08,cutting,82,2,2.44
+2026-08,Dyeing,115,1,0.87
+2026-08,FINANCE,20,0,0.0
+2026-08,Finishing,70,0,0.0
+2026-08,human resources,16,0,0.0
+2026-08,IT,15,0,0.0
+2026-08,Maintenance,108,1,0.93
+2026-08,Packing,65,0,0.0
+2026-08,Processing,32,0,0.0
+2026-08,Procurement,11,0,0.0
+2026-08,Production Planning,25,1,4.0
+2026-08,QUALITY CONTROL,106,0,0.0
+2026-08,SALES & MARKETING,25,1,4.0
+2026-08,Spinning,120,0,0.0
+2026-08,Stitching,156,2,1.28
+2026-08,Supply Chain,9,0,0.0
+2026-08,UTILITIES,35,0,0.0
+2026-08,warehouse,83,0,0.0
+2026-08,Weaving,137,1,0.73
+2026-09,Administration,19,0,0.0
+2026-09,Compliance,13,0,0.0
+2026-09,cutting,83,1,1.2
+2026-09,Dyeing,115,1,0.87
+2026-09,FINANCE,20,0,0.0
+2026-09,Finishing,70,0,0.0
+2026-09,human resources,16,0,0.0
+2026-09,IT,15,0,0.0
+2026-09,Maintenance,109,2,1.83
+2026-09,Packing,65,1,1.54
+2026-09,Processing,32,0,0.0
+2026-09,Procurement,11,0,0.0
+2026-09,Production Planning,25,0,0.0
+2026-09,QUALITY CONTROL,106,1,0.94
+2026-09,SALES & MARKETING,25,0,0.0
+2026-09,Spinning,121,1,0.83
+2026-09,Stitching,157,2,1.27
+2026-09,Supply Chain,9,0,0.0
+2026-09,UTILITIES,35,0,0.0
+2026-09,warehouse,83,0,0.0
+2026-09,Weaving,137,0,0.0
+2026-10,Administration,19,0,0.0
+2026-10,Compliance,13,0,0.0
+2026-10,cutting,83,0,0.0
+2026-10,Dyeing,115,0,0.0
+2026-10,FINANCE,20,0,0.0
+2026-10,Finishing,70,0,0.0
+2026-10,human resources,16,0,0.0
+2026-10,IT,15,0,0.0
+2026-10,Maintenance,109,0,0.0
+2026-10,Packing,65,0,0.0
+2026-10,Processing,32,0,0.0
+2026-10,Procurement,11,0,0.0
+2026-10,Production Planning,25,0,0.0
+2026-10,QUALITY CONTROL,106,0,0.0
+2026-10,SALES & MARKETING,25,0,0.0
+2026-10,Spinning,121,0,0.0
+2026-10,Stitching,157,0,0.0
+2026-10,Supply Chain,9,0,0.0
+2026-10,UTILITIES,35,0,0.0
+2026-10,warehouse,83,0,0.0
+2026-10,Weaving,137,0,0.0
